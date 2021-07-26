@@ -1,6 +1,9 @@
 ### Mattia Zorzan - zetaemme
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaemme&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Master's student at Università degli Studi di Verona, Veneto, Italy. Coding is an hobby, a way to challenge myself and to achieve academic results.<br>
+Here's some stats about my work
+
+<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaemme&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)</center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaemme&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 I'm currently working on...
@@ -10,6 +13,10 @@
 <a href="https://github.com/zetaemme/big_data">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=big_data&theme=onedark" />
 </a>
+
+## 🌱 I’m currently learning...
+* Complexity Theory
+* NoSQL technologies
 
 ## 📫 Contacts:
 If you'd like to contact me here's my [LinkedIn](https://www.linkedin.com/in/mattia-zorzan-72335b174/) profile or write me an [email](mailto:mattia.zorzan@gmail.com?subject=[GitHub]), I'll keep in touch! 😄
