@@ -1,9 +1,9 @@
 ### Mattia Zorzan - zetaemme
 
-I'm a Master's student at Università degli Studi di Verona, Veneto, Italy. Coding is an hobby, a way to challenge myself and to achieve academic results.<br>
+I'm a Master's student at Università degli Studi di Verona, Veneto, Italy. Coding is an hobby, a way to challenge myself and to achieve academic results.<br><br>
 Here's some stats about my work
 
-<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaemme&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)</center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaemme&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaemme&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 I'm currently working on...
