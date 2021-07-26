@@ -1,14 +1,14 @@
 ### Mattia Zorzan - zetaemme
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaemme&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaemme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaemme&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 I'm currently working on...
 <a href="https://github.com/zetaemme/dreamchess-plusplus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=dreamchess-plusplus" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=dreamchess-plusplus&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=big_data" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=big_data&theme=onedark" />
 </a>
 
 <!--
