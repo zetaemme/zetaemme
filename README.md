@@ -12,7 +12,7 @@
 </a>
 
 ## 📫 Contacts:
-Write me an [email](mailto:mattia.zorzan@gmail.com&subject=[GitHub]) if you want 😄
+Write me an [email](mailto:mattia.zorzan@gmail.com?subject=[GitHub]) if you want 😄
 
 <!--
 **zetaemme/zetaemme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
