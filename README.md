@@ -1,6 +1,6 @@
 ### Mattia Zorzan - zetaemme
 
-![](https://img.shields.io/badge/OS-Linux>-informational?style=flat&logo=logos/archlinux.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=logos/archlinux&logoColor=white&color=2bbc8a)
 
 I'm a Master's student at Università degli Studi di Verona, Veneto, Italy. Coding is an hobby, a way to challenge myself and to achieve academic results.<br><br>
 Here's some stats about my work
