@@ -21,7 +21,6 @@ Here's some stats about my work!
 
 ## 🌱 I’m currently learning...
 * Complexity Theory
-* NoSQL technologies
 * Dimensionality Reduction
 * Chess Programming
 
