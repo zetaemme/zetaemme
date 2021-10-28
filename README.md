@@ -20,9 +20,9 @@ Here's some stats about my work!
 </a>
 
 ## 🌱 I’m currently learning...
-* Complexity Theory
 * Dimensionality Reduction
-* Chess Programming
+* Web Applications Development
+* Foundations of Artificial Intelligence
 
 ## 📫 Contacts:
 If you'd like to contact me here's my [LinkedIn](https://www.linkedin.com/in/mattia-zorzan-72335b174/) profile or write me an [email](mailto:mattia.zorzan@gmail.com?subject=[GitHub]), I'll keep in touch! 😄
