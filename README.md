@@ -15,15 +15,11 @@ Here's some stats about my work!
 <a href="https://github.com/zetaemme/b4d_p3n6u1n">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=b4d_p3n6u1n&theme=onedark" />
 </a>
-<a href="https://github.com/zetaemme/big_data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=big_data&theme=onedark" />
-</a>
 
 ## 🌱 I’m currently learning...
-* Dimensionality Reduction
 * Linux Kernel Modules programming
-* Web Applications development
 * Foundations of Artificial Intelligence
+* Decision Trees
 
 ## 📫 Contacts:
 If you'd like to contact me here's my [LinkedIn](https://www.linkedin.com/in/mattia-zorzan-72335b174/) profile or write me an [email](mailto:mattia.zorzan@gmail.com?subject=[GitHub]), I'll keep in touch! 😄
