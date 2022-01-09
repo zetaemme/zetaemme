@@ -18,8 +18,8 @@ Here's some stats about my work!
 
 ## 🌱 I’m currently learning...
 * Linux Kernel Modules programming
-* Foundations of Artificial Intelligence
-* Decision Trees
+* MCTS Optimization
+* Decision Tree Algorithms
 
 ## 📫 Contacts:
 If you'd like to contact me here's my [LinkedIn](https://www.linkedin.com/in/mattia-zorzan-72335b174/) profile or write me an [email](mailto:mattia.zorzan@gmail.com?subject=[GitHub]), I'll keep in touch! 😄
