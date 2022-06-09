@@ -12,9 +12,11 @@ Here's some stats about my work!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaemme&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 I'm currently working on...
-<a href="https://github.com/zetaemme/b4d_p3n6u1n">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=b4d_p3n6u1n&theme=onedark" />
-</a>
+<><a href="https://github.com/zetaemme/b4d_p3n6u1n">
+<>  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zetaemme&repo=b4d_p3n6u1n&theme=onedark" />
+<></a>
+ Nothing to show right now!<br> 
+ **WHAT?!?** Private projects you say? I don't know what you're talking about, man! Now please, leave. Got things to do, places to be, but totally no *pRiVaTe RePoS* 👀
 
 ## 🌱 I’m currently learning...
 * Linux Kernel Modules programming
