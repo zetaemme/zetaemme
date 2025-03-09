@@ -20,7 +20,7 @@ Nothing to show right now!<br>
 **WHAT?!?** Private projects you say? I don't know what you're talking about, man! Now please, leave. Got things to do, places to be, but totally no *pRiVaTe RePoS* 👀
 
 ## 🌱 I’m currently learning...
-* Business Process Compliance
+* Apache Kafka
 * Project Management
 * Deep Learning
 
