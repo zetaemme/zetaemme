@@ -4,7 +4,7 @@
 ![Editor](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white")
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-I'm a Ph.D. student at Università degli Studi di Verona, Veneto, Italy. Coding is a work, a way to challenge myself and to achieve academic results.<br><br>
+I'm a Software Engineer at 🤐 (can't really disclose it rn), Milan, Italy. Coding is a work, a way to challenge myself and to achieve academic results.<br><br>
 Here's some stats about my work!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaemme&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
